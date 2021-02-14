@@ -1,4 +1,4 @@
-# lillydoo
+# lillydo
 
 ## Project setup
 ```
